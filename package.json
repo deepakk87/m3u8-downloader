@@ -1,6 +1,6 @@
 {
   "name": "m3u8-downloader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A downloader for m3u8 file which support resume and retries",
   "main": "./lib/downloader.js",
   "scripts": {
